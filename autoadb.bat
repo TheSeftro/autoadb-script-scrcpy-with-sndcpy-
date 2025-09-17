@@ -1,0 +1,1 @@
+autoadb autoplay.bat {}
